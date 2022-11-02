@@ -9,15 +9,17 @@
 
 - 👯 I’m looking to collaborate on **Open source projects**
 
-- 🤝 I’m looking for help with **UI implementations and Backend Development**
+- 🤝 Are you looking for help on **UI implementations and Backend Development**
 
 - 📝 I regularly write articles on [https://dev.to/usenmfon_uko](https://dev.to/usenmfon_uko)
+
+- 📝 Enjoy code challenges? join me on codewars [https://www.codewars.com/users/Usenmfon](https://www.codewars.com/users/Usenmfon)
 
 - 💬 Ask me about **mongodb, express, react and node**
 
 - 📫 How to reach me **usenmfonuko@gmail.com**
 
-- ⚡ Fun fact **Problem solving over Programming Languages**
+- ⚡ Fun fact: **Problem solving over Programming Languages**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -28,8 +30,6 @@
 <a href="https://fb.com/usenmfon uko" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="usenmfon uko" height="30" width="40" /></a>
 <a href="https://hashnode.com/@usenmfonuko" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@usenmfonuko" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/usenmfonuko" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="usenmfonuko" height="30" width="40" /></a>
-</p>
-<a href="https://www.codewars.com/users/Usenmfon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codewars.svg" alt="usenmfonuko" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
