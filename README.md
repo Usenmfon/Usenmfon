@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Usenmfon Uko</h1>
-<h3 align="center">A dynamic frontend developer from Nigeria</h3>
+<h3 align="center">A dynamic software developer from Nigeria</h3>
 
 <p align="left"> <a href="https://twitter.com/usenmfon_uko" target="blank"><img src="https://img.shields.io/twitter/follow/usenmfon_uko?logo=twitter&style=for-the-badge" alt="usenmfon_uko" /></a> </p>
 
@@ -11,17 +11,13 @@
 
 - 🤝 I’m looking for help with **UI implementations**
 
-- 👨‍💻 All of my projects are available at [https://next-rated-projects.netlify.app/](https://next-rated-projects.netlify.app/)
-
 - 📝 I regularly write articles on [https://dev.to/usenmfon_uko](https://dev.to/usenmfon_uko)
 
-- 💬 Ask me about **react and mui**
+- 💬 Ask me about **mongodb, express, react and node**
 
 - 📫 How to reach me **usenmfonuko@gmail.com**
 
-- 📄 Know about my experiences [https://next-rated-projects.netlify.app/](https://next-rated-projects.netlify.app/)
-
-- ⚡ Fun fact **I think I'm cool**
+- ⚡ Fun fact **Problem solving over Programming Languages**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
