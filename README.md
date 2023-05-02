@@ -5,7 +5,7 @@
 
 - 🔭 Active contributor to [Futurepay](https://futurepay.africa/), and [Futurestudio](https://futurelabs.studio/), [Futureresume](http://futureresume.app/)
 
-- 🌱 I’m currently learning **any thing software engineering**
+- 🌱 I’m currently focused on building projects
 
 - 👯 I’m looking to collaborate on **Open source projects**
 
