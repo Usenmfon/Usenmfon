@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently focused on building projects
 
-- 👯 I’m looking to collaborate on **Open source projects**
+- 👯 I am looking to collaborate on **Open source projects**
 
 - 🤝 Are you looking for help on **UI implementations and Backend Development**
 
