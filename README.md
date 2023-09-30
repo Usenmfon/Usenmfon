@@ -15,7 +15,7 @@
 
 - 📝 Enjoy code challenges? join me on codewars [https://www.codewars.com/users/Usenmfon](https://www.codewars.com/users/Usenmfon)
 
-- 💬 Ask me about **mongodb, express, react and node**
+- 💬 Ask me about **javascript, php, and laravel**
 
 - 📫 How to reach me **usenmfonuko@gmail.com**
 
