@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/usenmfon_uko" target="blank"><img src="https://img.shields.io/twitter/follow/usenmfon_uko?logo=twitter&style=for-the-badge" alt="usenmfon_uko" /></a> </p>
 
-- 🔭 Active contributor to [Futurepay](https://futurepay.africa/), and [Futurestudio](https://futurelabs.studio/), [Futureresume](http://futureresume.app/)
+- 🔭 Contributor to [Futurestudio](https://futurelabs.studio/)
 
 - 🌱 I’m currently focused on building projects
 
