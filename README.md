@@ -7,6 +7,8 @@
 
 - 🌱 I’m currently focused on building projects
 
+- [![An image of @usenmfon's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/usenmfon)](https://holopin.io/@usenmfon)
+
 - 👯 I am looking to collaborate on **Open source projects**
 
 - 🤝 Are you looking for help on **UI implementations and Backend Development**
