@@ -3,11 +3,11 @@
 
 <p align="left"> <a href="https://twitter.com/usenmfon_uko" target="blank"><img src="https://img.shields.io/twitter/follow/usenmfon_uko?logo=twitter&style=for-the-badge" alt="usenmfon_uko" /></a> </p>
 
+[![An image of @usenmfon's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/usenmfon)](https://holopin.io/@usenmfon)
+
 - 🔭 Contributor to [Futurestudio](https://futurelabs.studio/)
 
 - 🌱 I’m currently focused on building projects
-
-- [![An image of @usenmfon's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/usenmfon)](https://holopin.io/@usenmfon)
 
 - 👯 I am looking to collaborate on **Open source projects**
 
