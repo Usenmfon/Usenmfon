@@ -9,11 +9,11 @@
 
 - 🌱 I’m currently focused on building projects
 
-- 👯 I am looking to collaborate on **Open source projects**
+- 👯 **Open source project enthusiast**
 
-- 🤝 Are you looking for help on **UI implementations and Backend Development**
+- 🤝 Interested in everything web and technology
 
-- 📝 I regularly write articles on [https://dev.to/usenmfon_uko](https://dev.to/usenmfon_uko)
+- 📝 Articles on [https://dev.to/usenmfon_uko](https://dev.to/usenmfon_uko)
 
 - 📝 Enjoy code challenges? join me on codewars [https://www.codewars.com/users/Usenmfon](https://www.codewars.com/users/Usenmfon)
 
