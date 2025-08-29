@@ -6,7 +6,9 @@
 - 🔭 Contributor to [Futurestudio](https://futurelabs.studio/)
   
 - 💻 Software Developer at [Alphapay](https://alphapay.com.ng/)
- 
+
+- ✅ LinkedIn Profile [LinkedIn](https://www.linkedin.com/in/usenmfon-uko/0)
+
 - 🌱 I’m currently focused on building projects
 
 - 👯 **Open source project enthusiast**
