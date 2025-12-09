@@ -2,10 +2,8 @@
 <h3 align="center">Software Developer</h3>
 
 <p align="left"> <a href="https://twitter.com/usenmfon_uko" target="blank"><img src="https://img.shields.io/twitter/follow/usenmfon_uko?logo=twitter&style=for-the-badge" alt="usenmfon_uko" /></a> </p>
-
-- 🔭 Contributor to [Futurestudio](https://futurelabs.studio/)
   
-- 💻 Software Developer at [Alphapay](https://alphapay.com.ng/)
+- 💻 Software Developer
 
 - ✅ LinkedIn Profile [LinkedIn](https://www.linkedin.com/in/usenmfon-uko/0)
 
