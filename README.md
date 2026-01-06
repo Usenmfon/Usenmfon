@@ -24,7 +24,7 @@ php,js,html,css,vue,react,laravel,nodejs,docker,git,mysql,graphql,aws,flutter,de
 - **Public Repositories**: 157 
 - **Followers**: 12 
 - **Following**: 5 
-[![Usenmfon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Usenmfon)](https://github.com/anuraghazra/github-readme-stats)
+[![Usenmfon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Usenmfon)](https://github.com/usenmfon/github-readme-stats)
 
 ## Recent Activity
 
