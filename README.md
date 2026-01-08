@@ -46,3 +46,12 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=usenmfon&show_icons=true&locale=en&layout=compact" alt="usenmfon" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=usenmfon&" alt="usenmfon" /></p>
+
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/Usenmfon/Usenmfon/output/snake.svg" alt="Snake animation" />
+
+###
