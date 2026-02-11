@@ -9,8 +9,6 @@
 
 - 🌱 I’m currently focused on building projects
   
--  ![ClipWindowsGIF](https://github.com/user-attachments/assets/ab00a8ae-c76f-4ffb-83a7-0e598cf44d82)
-  
 - 🎧 Featured Project [https://www.unionspace.site](https://www.unionspace.site)
   
 - 👯 **Open source project enthusiast**
